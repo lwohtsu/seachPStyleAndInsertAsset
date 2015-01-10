@@ -1,0 +1,2 @@
+# seachPStyleAndInsertAsset
+InDesign用のスクリプト。段落スタイルを検索してライブラリからアイテムを挿入する
